@@ -1,5 +1,13 @@
 # Dashboard de Vendas XBox
 
-- Ferramenta didática criada durante a aula **Criando um Dashboard de Vendas do Xbox com Excel**.
-- Neste dashboard, foram utilizadas ferramentas do Excel, como fórmulas e funções aprendidas durante o presente curso.
-- Ferramenta utilizada: Microsoft Excel 2013.
+Projeto didático desenvolvido durante a aula **Criando um Dashboard de Vendas do Xbox com Excel**.
+
+O dashboard aplica fórmulas e funções do Excel aprendidas ao longo do curso.
+
+## Arquivo
+
+- [Dashboard de Vendas XBox.xlsx](./Dashboard%20de%20Vendas%20XBox.xlsx) — pasta de trabalho com o dashboard.
+
+## Como abrir
+
+Baixe a planilha e abra-a no Microsoft Excel 2013.
